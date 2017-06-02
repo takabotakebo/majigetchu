@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ル・コルビュジエの建築作品：近代建築運動への顕著な貢献.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/majigetchu/sekaiisan_grade4/master/data/icon/bunka.png</href>
+			</Icon>
+			<hotSpot x="50" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/majigetchu/sekaiisan_grade4/master/data/icon/bunka.png</href>
+			</Icon>
+			<hotSpot x="50" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>ル・コルビュジエの建築作品：近代建築運動への顕著な貢献</name>
+		<description><![CDATA[<body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・2016年</br>
+登録基準・・・近代建築において世界的規模での交流が見られる価値</br>
+</b>
+</center>
+</br>
+建築家<font color="red">ル・コルビュジエ</font>が設計した7ヵ国に点在する17資産で構成されている。複数の構成資産から成る「シリアル・ノミネーション・サイト」であるだけでなく、日本で初めて国境を越えて登録された「<font color="red">トランスパウダリー・サイト</font>」でもある。</br>
+本館には「無限成長美術館」という新たな概念や「<font color="blue">ピロティ</font>「モデュロール」など、ル・コルビュジエの特長がよく表れている。
+</body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>2016-07-17</when>
+</gx:TimeStamp>
+			<longitude>139.7758120908267</longitude>
+			<latitude>35.71538794220231</latitude>
+			<altitude>0</altitude>
+			<heading>1.009125753223808e-008</heading>
+			<tilt>0</tilt>
+			<range>1042.907334051062</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>139.7758120908267,35.71538794220231,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>紀伊山地の霊場と参詣道</name>
+		<description><![CDATA[<body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・2004年(2016年に範囲変更)</br>
+登録理由・・・日本古来の自然崇拝と仏教が融合した文化的景観の価値</br>
+</b>
+</center>
+</br>
+神道と仏教が混ざり合った<font color="red">神仏習合</font>の思想を表す<font color="red">文化的景観</font>を作り上げている。</br>
+後白河上皇などの貴族が<font color="blue">熊野詣</font>を行った。
+</body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>2004-07-07</when>
+</gx:TimeStamp>
+			<longitude>135.8045819595056</longitude>
+			<latitude>34.10988428825241</latitude>
+			<altitude>0</altitude>
+			<heading>-2.270851477304917e-008</heading>
+			<tilt>0</tilt>
+			<range>101144.4584938126</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>135.8045819595056,34.10988428825241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>厳島神社</name>
+		<description><![CDATA[<img style="max-width:250px;" src="http://blue-wind.net/system/files/styles/dl_small/private/mt244bluemoment.JPG?itok=9U4rA9LY" alt = "厳島神社">
+			<body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・1996年</br>
+登録理由・・・山と海に囲まれ自然と一体になった建築様式の価値</br>
+</b>
+</center></br>
+ひときわ高い<font color="red">弥山</font>を中心とする島全体がご神体。</body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1996-12-05</when>
+</gx:TimeStamp>
+			<longitude>132.3198080038852</longitude>
+			<latitude>34.29595450245161</latitude>
+			<altitude>0</altitude>
+			<heading>-1.123371913492914e-011</heading>
+			<tilt>0</tilt>
+			<range>1012.241559789777</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>132.3198080038852,34.2959545024516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>古都京都の文化財</name>
+		<description><![CDATA[<img style="max-width:250px;" src="http://www.yunphoto.net/sumb/yun_5706.jpg" alt = "厳島神社"><body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・1994年</br>
+登録理由・・・日本の各時代の文化を代表する建築と庭園の価値</br>
+</b>
+</center>
+</br>
+794年、<font color="blue">桓武天皇が</font>都を京都の地に移して<font color="red">平安京</font>と名付けた。
+</body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1994-12</when>
+</gx:TimeStamp>
+			<longitude>135.7292438744646</longitude>
+			<latitude>35.03937082394886</latitude>
+			<altitude>0</altitude>
+			<heading>-1.051371470780348e-008</heading>
+			<tilt>0</tilt>
+			<range>1036.15678316029</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>135.7292438744646,35.03937082394886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>古都奈良の文化財</name>
+		<description><![CDATA[<img style="max-width:250px;" src="https://dlift.jp/images/spotPhoto/worldheritage183_2_20120927093345.jpg" alt = "古都奈良の文化財"><body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・1998年</br>
+登録理由・・・日本の基礎を築いた奈良時代の存在を今に伝える価値</br>
+</b>
+</center></body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>1998-12-02</when>
+</gx:TimeStamp>
+			<longitude>135.8050001998253</longitude>
+			<latitude>34.6850868999624</latitude>
+			<altitude>0</altitude>
+			<heading>-9.937961157700905e-011</heading>
+			<tilt>0</tilt>
+			<range>8052.550043629482</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>135.8050001998253,34.6850868999624,0</coordinates>
+		</Point>
+	</Placemark>
+		<Placemark>
+			<name>広島平和記念碑(原爆ドーム)</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tmyun.com/mid/yun_3909.jpg" alt = "広島平和記念碑"><body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・1996年</br>
+	登録理由・・・人類初の原子爆弾がもたらした悲劇を伝える価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1996-12-05</when>
+	</gx:TimeStamp>
+				<longitude>132.4525647997612</longitude>
+				<latitude>34.39296779993705</latitude>
+				<altitude>0</altitude>
+				<heading>-1.348618796034161e-010</heading>
+				<tilt>0</tilt>
+				<range>1010.268807629576</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>132.4525647997612,34.39296779993705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>石見銀山遺跡とその文化的景観</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tmyun.com/mid/yun_9763.jpg" alt = "広島平和記念碑"><body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・2007年(2010年に範囲変更)</br>
+	登録理由・・・日本の銀による東アジアや西欧との経済・文化交流の価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2007-09-08</when>
+	</gx:TimeStamp>
+				<longitude>132.4387590001499</longitude>
+				<latitude>35.10514199984644</latitude>
+				<altitude>0</altitude>
+				<heading>8.624392074256472e-011</heading>
+				<tilt>0</tilt>
+				<range>1001.593343680583</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>132.4387590001499,35.10514199984644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>日光の社寺</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tmyun.com/mid/yun_3556.jpg" alt = "日光の社寺">[<body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・1999年</br>
+	登録基準・・・西域の自然と調和した、芸術性の高い宗教建造物群の価値</br>
+	</b>
+	</center>
+	</br>
+	現在の<font color="red">東照宮１</font>にみられる建物のほとんどは、3代将軍家光が天下の富と美出・工芸・建築技術の粋を集めて行った「<font color="blue">寛永の大造替</font>」の際に築かれたものである。色鮮やかな彫刻や金箔が施された豪華な建造物群が日光山の地形や老木などをいかして自然と調和するようにつくられている。</br>
+	日本固有の神道と大陸伝来の仏教が混ざり合った<font color="red">神仏習合</font>が見られる日光では、東照宮と山岳信仰の中心地である二荒山神社、家光の霊廟のある輪王寺の二社一寺のほか、周囲の自然環境も世界遺産に登録されている。
+	</body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1999-12-02</when>
+	</gx:TimeStamp>
+				<longitude>139.6982186632077</longitude>
+				<latitude>36.71990674159205</latitude>
+				<altitude>0</altitude>
+				<heading>-5.131014255153079e-008</heading>
+				<tilt>0</tilt>
+				<range>125362.3935056059</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6982186632077,36.71990674159205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>白川郷・五箇山の合掌造り集落</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tmyun.com/mid/yun_1871.jpg" alt = "白川郷一望"><body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・1995年</br>
+	登録理由・・・伝統的家屋と大家族制度にみる伝統的集落の価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1995-12-09</when>
+	</gx:TimeStamp>
+				<longitude>136.898469251681</longitude>
+				<latitude>36.27309042526895</latitude>
+				<altitude>0</altitude>
+				<heading>6.313708984009352e-006</heading>
+				<tilt>0</tilt>
+				<range>63188.428322783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.898469251681,36.27309042526895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>姫路城</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tmyun.com/mid/yun_6060.jpg" alt = "姫路城"><body text="#0a0a0a">
+		<font size="4px">
+		<center>
+		<b>
+		</br>
+		登録年・・・1993年</br>
+		登録理由・・・日本の木造城郭建築の傑作が示す、建築技術の価値</br>
+		</b>
+		</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1993-12-11</when>
+		</gx:TimeStamp>
+				<longitude>134.6939047068111</longitude>
+				<latitude>34.83944899494064</latitude>
+				<altitude>0</altitude>
+				<heading>-1.678537733142371e-010</heading>
+				<tilt>0</tilt>
+				<range>1006.583378534919</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>134.6939047068111,34.83944899494064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>富岡製糸場と絹産業遺産群</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.tomioka-silk.jp/files/photo/9.jpgg" alt = "富岡製糸場"><body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・2014年</br>
+	登録基準・・・海外と日本の養蚕技術が融合し全国に広まった価値</br>
+	</b>
+	</center>
+	</br>
+
+	明治維新を進める日本政府が「<font color="red">殖産興業</font>」を目指し、海外の技術を用いて日本の産業を強化しようと考えた末、伝統的に行われていた生糸の品質改善と生産向上を急ぎ、フランス人技術者<font color="red">ポール・ブリュナ</font>を招いて官営の富岡製糸場を築いた。</br>
+	製糸場は日本古来の木造の柱に西欧伝来のレンガを組み合わせた「<font color="blue">木骨レンガ造」</font>と呼ばれるつくりになっている。
+	</body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2014-06-21</when>
+	</gx:TimeStamp>
+				<longitude>138.8873239941318</longitude>
+				<latitude>36.255262903819</latitude>
+				<altitude>0</altitude>
+				<heading>-9.149628874353357e-010</heading>
+				<tilt>0</tilt>
+				<range>1007.280334990958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.8873239941317,36.255262903819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>富士山-信仰の対象と芸術の源泉-</name>
+			<description><![CDATA[<img style="max-width:250px;" src="http://www.city.fuji.shizuoka.jp/page/gazou/fmervo000001dsro-att/tago04b.jpg" alt = "富岡製糸場"><body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・2013年</br>
+	登録基準・・・日本人の信仰の対象と芸術・文化の源としての価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2013-06-26</when>
+	</gx:TimeStamp>
+				<longitude>138.7277777002299</longitude>
+				<latitude>35.36055550033902</latitude>
+				<altitude>0</altitude>
+				<heading>1.330489634349818e-010</heading>
+				<tilt>0</tilt>
+				<range>999.9999829305556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.7277777002299,35.36055550033902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>平泉-仏国土(浄土)を表す建築・庭園および考古学的遺跡群</name>
+			<description><![CDATA[<img style="max-width:250px;" src="https://www.mission-p.com/m/images/user_pic/1000/564.jpg" alt = "富岡製糸場">[<body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・2011年</br>
+	登録基準・・・建築群と庭園で表現された日本独自の浄土思想の価値</br>
+	</b>
+	</center>
+	</br>
+	<font color="red">藤原清衡</font>が<font color="blue">浄土思想</font>に基づき築いた理想郷。</br>
+	政治・行政の拠点とするため平泉に移り住んだ清衡は、平泉をこの世の仏国土とするため、その中心として最初に<font color="red">中尊寺</font>を設立した。
+	</body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2011-06</when>
+	</gx:TimeStamp>
+				<longitude>141.113821888061</longitude>
+				<latitude>38.98666228938438</latitude>
+				<altitude>0</altitude>
+				<heading>-7.511337880150225e-009</heading>
+				<tilt>0</tilt>
+				<range>30444.05084772743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.1146966961958,38.98421429648664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>法隆寺地域の仏教建造物群</name>
+			<description><![CDATA[<body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・1993年</br>
+	登録理由・・・大陸や朝鮮半島との文化交流や仏教伝来を伝える価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>1993-12</when>
+	</gx:TimeStamp>
+				<longitude>135.7356895732412</longitude>
+				<latitude>34.6140837464041</latitude>
+				<altitude>0</altitude>
+				<heading>-5.016943343446921e-009</heading>
+				<tilt>0</tilt>
+				<range>1022.569061296347</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.7356895732412,34.6140837464041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>琉球王国のグスクおよび関連遺産群</name>
+			<description><![CDATA[<body text="#0a0a0a">
+	<font size="4px">
+	<center>
+	<b>
+	</br>
+	登録年・・・2000年</br>
+	登録理由・・・沖縄で独自の文化を築いた琉球王国の存在を伝える価値</br>
+	</b>
+	</center></body>]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2000-12-02</when>
+	</gx:TimeStamp>
+				<longitude>127.6847697567142</longitude>
+				<latitude>26.21810441351904</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001569239191846962</heading>
+				<tilt>0</tilt>
+				<range>287185.0117980201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.6847697567143,26.21810441351904,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>
